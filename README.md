@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Computer Engineering undergrad diving deep into the world of Machine Learning and Deep Learning. Currently building my skills through hands-on projects and exploring how AI can solve real-world problems.<br><br>- 🎓 B.Tech in Computer Engineering<br>- 🤖 Learning: Machine Learning & Deep Learning<br>- 🔭 Interested in: Neural Networks, Data Science, AI Applications<br>- 💬 Open to collaboration and learning opportunities<br></p>
 
 ###
 
