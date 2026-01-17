@@ -4,15 +4,11 @@
 
 ###
 
-<div class="social-buttons">
-  <a href="https://www.linkedin.com/in/[your-linkedin-username](https://www.linkedin.com/in/subhakar-pant-b170b4338/)" target="_blank" class="btn linkedin">
-    LINKEDIN
-  </a>
-
-  <a href="https://twitter.com/[your-twitter-username](https://x.com/pant_subhakar)" target="_blank" class="btn twitter">
-    TWITTER
-  </a>
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/subhakar-pant-b170b4338/" target="_blank">LINKEDIN</a>
+  <a href="https://twitter.com/[your-twitter-username](https://x.com/pant_subhakar)" target="_blank">TWITTER</a>
 </div>
+
 
 
 ###
