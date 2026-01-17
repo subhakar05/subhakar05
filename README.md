@@ -4,12 +4,12 @@
 
 ###
 
-<div class="social-links">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/subhakar-pant-b170b4338/" target="_blank">LINKEDIN</a>
-  <a href="https://twitter.com/[your-twitter-username](https://x.com/pant_subhakar)" target="_blank">TWITTER</a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/subhakar-pant-b170b4338/))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/your-username](https://x.com/pant_subhakar))
+
 </div>
-
-
 
 ###
 
