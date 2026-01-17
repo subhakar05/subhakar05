@@ -57,10 +57,7 @@
 ## 🔥 My Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhakar05&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhakar05&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakar05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=subhakar05&theme=dark&hide_border=true&border_radius=10&card_width=800&background=0D1117&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" alt="GitHub Streak" />
+  </a>
 </p>
