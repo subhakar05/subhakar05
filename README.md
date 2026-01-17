@@ -54,12 +54,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔥 My Stats:
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhakar05&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhakar05&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakar05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
