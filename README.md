@@ -57,7 +57,10 @@
 ## 🔥 My Stats:
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=subhakar05&theme=dark&hide_border=true&border_radius=10&card_width=800&background=0D1117&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhakar05&theme=github_dark" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhakar05&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhakar05&theme=github_dark" alt="Productive Time"/>
 </p>
